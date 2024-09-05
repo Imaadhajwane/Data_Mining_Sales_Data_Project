@@ -1,6 +1,6 @@
 # Data Mining Project: Sales Data Analysis
 
-This repository contains the implementation of various machine learning tasks on a sales dataset. The dataset includes several features related to sales transactions, such as Order ID, Amount, Profit, Quantity, Category, Sub-Category, and PaymentMode.  
+This repository contains the implementation of various machine learning tasks on a sales dataset. The dataset includes several features related to sales transactions, such as Order ID, Amount, Profit, Quantity, Category, Sub-Category, and PaymentMode.   
 
 ## Table of Contents
 - [Project Description](#project-description)
